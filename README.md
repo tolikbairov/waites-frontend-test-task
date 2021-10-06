@@ -2,12 +2,18 @@
 Данные о пользователях бота берутся из файла users.json (./src/components/data/users.json) в формате:
 	{
 		"id":string,
+
 		"name": string,
-		"phone": string,
+	
+	"phone": string,
+
 		"email": string,
+
 		"avatarUrl": string,
+
 		"birthday": string,
-		"sex": integer
+	
+	"sex": integer
 	}
 
 реализована фильтрации пользователей при вводе в поле: "Find user by username"
