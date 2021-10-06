@@ -20,4 +20,5 @@
 реализована фильтрации пользователей при вводе в поле: "Find user by username"
 ![image](https://user-images.githubusercontent.com/78851575/136235462-02b493de-14a7-41a5-9a56-1dad72a7387a.png)
 
-добавлена пагинация(12 пользователей на страницу).
+добавлена пагинация(12 пользователей на страницу).![image](https://user-images.githubusercontent.com/78851575/136238169-c91b3b0f-39c6-4264-91af-7923e7e622ab.png)
+
