@@ -11,7 +11,7 @@ export default function Pagination({ usersPerPage, totalUsers, paginate }) {
         {pageNumbers.map((number) => (
           <li className="page-item" key={number}>
             <a
-              href="!#"
+              href="#0"
               className="page-link"
               onClick={() => {
                 paginate(number);
