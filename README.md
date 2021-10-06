@@ -5,7 +5,7 @@
 
 		"name": string,
 	
-	"phone": string,
+		"phone": string,
 
 		"email": string,
 
@@ -13,7 +13,7 @@
 
 		"birthday": string,
 	
-	"sex": integer
+		"sex": integer
 	}
 
 реализована фильтрации пользователей при вводе в поле: "Find user by username"
